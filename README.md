@@ -9,4 +9,5 @@ Classical Encryptions:
 - **VigenereCipher** is a source code of a typical vigenere encryption.
 
 Symetric Encryptions: 
+- **DES** coming soon ? 
 - **AES** coming soon ? 
