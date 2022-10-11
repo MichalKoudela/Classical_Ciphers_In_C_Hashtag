@@ -1,6 +1,6 @@
-## Encryptions-In-C-hashtag
+## Classical Ciphers in C Hashtag
 
-*A small encryption program written in C#.*
+*A small classical encryption program written in C#.*
 
 Classical Encryptions:
 
